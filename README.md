@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ben, I'm currently an Information Science and Technology major and Music Minor at UWM.
+- 👋 Hi, I’m Ben.
 - 👀 I’m interested in music, information security, and programming.
 - 🌱 I currently have experience with HTML, CSS, PHP, Python, and SQL and am interested in learning JS, TypeScript, and Java.
 - 💞️ I’m not necessarily looking to collaborate on anything at the moment.
