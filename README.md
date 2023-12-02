@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bskrade21
-- 👀 I’m interested in music amd programming
-- 🌱 I currently have experience with HTML, CSS, PHP, Python, and SQL and am interested in learning JS, C, C#, and C++
+- 👋 Hi, I’m Ben
+- 👀 I’m interested in music, information security, and programming
+- 🌱 I currently have experience with HTML, CSS, PHP, Python, and SQL and am interested in learning JS, and am currently learning a bit of Java
 - 💞️ I’m not necessarily looking to collaborate on anything at the moment
 
 <!---
